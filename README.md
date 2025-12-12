@@ -1,7 +1,5 @@
-## Hi there 👋
-
 # 💫 About Me:
-🚀 About Me<br><br>Hi! I'm Marwan, a MERN Stack with a passion for building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real products, designing dashboards, and creating clean, reusable UI components.<br><br>💻 MERN Stack Developer (MongoDB, Express.js, React, Node.js)<br><br>🎨 Frontend Developer experienced with React, Next.js, TailwindCSS<br><br>📊 Skilled in dashboard design, data visualization, and building management systems<br><br>🏢 I manage operations for 40–50 institutions and develop tools to automate workflows<br><br>🧩 Strong believer in clean code, reusable components, and scalable architectures<br><br>🌱 Always exploring new technologies and improving my development workflow
+<br>Hi! I'm Marwan, a MERN Stack with a passion for building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real products, designing dashboards, and creating clean, reusable UI components.<br><br>💻 MERN Stack Developer (MongoDB, Express.js, React, Node.js)<br><br>🎨 Frontend Developer experienced with React, Next.js, TailwindCSS<br><br>📊 Skilled in dashboard design, data visualization, and building management systems<br><br>🏢 I manage operations for 40–50 institutions and develop tools to automate workflows<br><br>🧩 Strong believer in clean code, reusable components, and scalable architectures<br><br>🌱 Always exploring new technologies and improving my development workflow
 
 
 ## 🌐 Socials:
